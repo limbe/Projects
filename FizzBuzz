@@ -1,6 +1,7 @@
 """
+author: donibrysonimbaga(debe tupu)
+
 a famous fizzbuzz problem
-author: donibrysonimbaga(debe tupu);
 """
 for x in range(1, 101):
     if x % 3 == 0 and x % 5 == 0:
