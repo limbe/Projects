@@ -1,2 +1,2 @@
 # projects
-This is where my learning project lives
+Learning programming, github and python this way.
