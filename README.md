@@ -1,2 +1,2 @@
 # projects
-Learning programming, github and python this way.
+Learning programming, github, no big deal
