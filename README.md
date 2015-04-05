@@ -1,2 +1,2 @@
 # projects
-Learning programming, github, no big deal
+Learning programming, github, no big deal.
